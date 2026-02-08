@@ -3,7 +3,7 @@
 # Hi there, I'm Prince! 👋
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7B32B&center=true&vCenter=true&width=500&lines=Code+that+performs%2C+designs+that+inspire;Bridging+AI+logic+and+User+Experience;Aesthetic+banane+ka+shauk+hai" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7B32B&center=true&vCenter=true&width=500&lines=Full+Stack+Engineer;CP+%26+DSA+Specialist;MERN+Stack+Architect;Building+Scalable+Systems" alt="Typing SVG" />
 </a>
 
 </div>
@@ -50,8 +50,8 @@
 <div align="center">
 
 <a href="https://github.com/CreatorguyS">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CreatorguyS&show_icons=true&theme=radical&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CreatorguyS&layout=compact&theme=radical&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CreatorguyS&show_icons=true&theme=ocean_next&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CreatorguyS&layout=compact&theme=ocean_next&hide_border=true" />
 </a>
 
 </div>
@@ -70,7 +70,7 @@
 
 <div align="center">
 
-<a href="https://linkedin.com/in/your-linkedin-username" target="_blank">
+<a href="https://www.linkedin.com/in/prince-mehta-a866b1288" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
 </a>
 
