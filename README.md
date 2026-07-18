@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Prince Mehta Banner" width="600">
+  <img src="banner.png" alt="Prince Mehta Banner" width="100%">
 </p>
 
 <p align="center">
