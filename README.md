@@ -92,38 +92,18 @@ I am a B.Tech Computer Science student focused on building **scalable systems**,
 
 ---
 
-## Github stats 📊
+### 📈 GitHub Stats
 
-<details>
-  <summary>GitHub Profile Stats 💻</summary>
-  <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="CreatorguyS's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=CreatorguyS&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="CreatorguyS's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CreatorguyS&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000&hide=Jupyter%20Notebook" height="192px"/></a>
-  <br/>
-</details>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CreatorguyS&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br>
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CreatorguyS&theme=radical" alt="GitHub Streak" />
+</p>
 
-<details>
-  <summary>Activity Graph 📈</summary>
-  <br/>
-
-[![Prince's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CreatorguyS&bg_color=ffffff&color=000000&line=04e61b&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</details>
-
-<details>
-  <summary>Profile Views 👁️</summary>
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=CreatorguyS&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
-
-</details>
-
-## Recent GitHub Activity ✅
-
-![Metrics](https://metrics.lecoq.io/CreatorguyS?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&activity=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=true&activity.filter=all&config.timezone=Asia%2FTehran)
-
-## GitHub Profile Trophy 🏆
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=CreatorguyS&row=1&margin-w=40)](https://github.com/ryo-ma/github-profile-trophy)
+---
 
 <br>
-<img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
+<div align="center">
+  <img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
+</div>
