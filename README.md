@@ -106,5 +106,5 @@ I am a B.Tech Computer Science student focused on building **scalable systems**,
 
 <br>
 <div align="center">
-  <img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" style="display: block; opacity: 1;">
+  <img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/user-attachments/assets/f33c5d19-64ae-41c5-be85-8d86b37a5a0d" style="display: block; opacity: 1;">
 </div>
