@@ -85,6 +85,7 @@ I am a B.Tech Computer Science student focused on building **scalable systems**,
 
 | Project | Tech Stack | Highlights |
 | :--- | :--- | :--- |
+| 🛡️ **[PrivaShield AI](https://github.com/NIT-JSR/PrivaShield-AI)** | `React` `Node.js` `FastAPI` `Groq` `FAISS` `LangChain` `Chrome Extension` | Interactive **legal-to-permission mapping engine** that converts complex privacy policies into contextual insights using AI summarization, **1–10 risk scoring, permission mapping, hidden-clause detection, and a RAG chatbot** backed by MiniLM embeddings and FAISS semantic search. |
 | ♞ **[KnightMare](https://github.com/CreatorguyS/KnightMare)** | `React` `Node.js` `Express` `MongoDB` `Minimax` | Full-stack chess platform with a custom game engine and **Minimax + Alpha-Beta pruning** for AI move selection, combining interactive gameplay with extensible custom rules. |
 | 🕵️ **[Forensic Synopsis Generator](https://github.com/CreatorguyS/Forensic-synopsis-generator)** | `Python` `OpenCV` `YOLOv8` `FFmpeg` `Streamlit` `Kaggle GPU` | AI-powered forensic video analysis platform orchestrating multiple vision models on cloud GPUs, extracting suspect tracks and automatically generating **temporal video synopses with synchronized audio**. |
 | 🔗 **[URL Shortener & Analytics](https://github.com/CreatorguyS/url_shortner_analytics)** | `Node.js` `Redis` `MongoDB` `NGINX` `BullMQ` `Docker` | Production-oriented microservice URL shortener with **multi-tier caching, AES-256-GCM encryption, distributed rate limiting, circuit breakers, asynchronous analytics, and Prometheus observability**. |
@@ -106,7 +107,7 @@ I am a B.Tech Computer Science student focused on building **scalable systems**,
 
 ### 🏆 Achievements
 
-- 🥇 **Winner, SCSU Hackathon** — Won with my team by building a **Smart Food Surplus Redistribution Platform** designed to connect surplus food sources with organizations and people in need.
+- 🥇 **Winner, SCSE Hackathon** — Won with my team by building a **Smart Food Surplus Redistribution Platform** designed to connect surplus food sources with organizations and people in need.
 - 🤖 **Top 50%, Amazon ML Summer Challenge 2025** — Ranked among the **top 50% of participants** in the machine-learning challenge.
 - ⭐ **700+ DSA Problems Solved** — Solved **700+ Data Structures & Algorithms problems** across multiple competitive-programming and coding platforms.
 
