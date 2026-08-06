@@ -83,13 +83,30 @@ I am a B.Tech Computer Science student focused on building **scalable systems**,
 
 ### 🚀 Featured Projects
 
-| Project | Description | Tech Stack |
+| Project | Tech Stack | Highlights |
 | :--- | :--- | :--- |
-| **[KnightMare](https://github.com/CreatorguyS/KnightMare)** | High-performance chess engine using bitboards. | `C++` `WebAssembly` |
-| **[Forensic Synopsis Generator](https://github.com/CreatorguyS/Forensic-synopsis-generator)** | AI-powered forensic video analysis. | `Python` `AI/ML` `CV` |
-| **[url_shortner_analytics](https://github.com/CreatorguyS/url_shortner_analytics)** | Scalable URL shortener service with advanced analytics. | `Node.js` `Redis` `MongoDB` |
-| **[AyroPath](https://github.com/CreatorguyS/AyroPath)** | Route optimization and predictive paths. | `Node.js` `React` `AI` |
-| **[kyo](https://github.com/CreatorguyS/kyo)** | Specialized lightweight service and application logic component. | `Backend` `Systems` |
+| ♞ **[KnightMare](https://github.com/CreatorguyS/KnightMare)** | `React` `Node.js` `Express` `MongoDB` `Minimax` | Full-stack chess platform with a custom game engine and **Minimax + Alpha-Beta pruning** for AI move selection, combining interactive gameplay with extensible custom rules. |
+| 🕵️ **[Forensic Synopsis Generator](https://github.com/CreatorguyS/Forensic-synopsis-generator)** | `Python` `OpenCV` `YOLOv8` `FFmpeg` `Streamlit` `Kaggle GPU` | AI-powered forensic video analysis platform orchestrating multiple vision models on cloud GPUs, extracting suspect tracks and automatically generating **temporal video synopses with synchronized audio**. |
+| 🔗 **[URL Shortener & Analytics](https://github.com/CreatorguyS/url_shortner_analytics)** | `Node.js` `Redis` `MongoDB` `NGINX` `BullMQ` `Docker` | Production-oriented microservice URL shortener with **multi-tier caching, AES-256-GCM encryption, distributed rate limiting, circuit breakers, asynchronous analytics, and Prometheus observability**. |
+| 🗺️ **[AyroPath](https://github.com/CreatorguyS/AyroPath)** | `Node.js` `React` `AI` | Route optimization and predictive-path platform combining a modern web stack with intelligent routing capabilities. |
+| ⚙️ **[kyo](https://github.com/CreatorguyS/kyo)** | `Backend` `Systems` | Specialized lightweight service focused on backend application logic and systems-oriented development. |
+
+---
+
+### 💼 Experience
+
+| Role | Organization / Project | Highlights |
+| :--- | :--- | :--- |
+| 🌐 **Freelance Developer** | Freelance Project | Delivered a client-based development project by translating requirements into a functional software solution and handling the development lifecycle. |
+| 💻 **Open Source Contributor** | JET Team — Hacktoberfest | Contributed to an open-source project during Hacktoberfest, implemented required changes, and successfully raised a **Pull Request (PR)** following the project contribution workflow. |
+
+---
+
+### 🏆 Achievements
+
+- 🥇 **Winner, SCSU Hackathon** — Won with my team by building a **Smart Food Surplus Redistribution Platform** designed to connect surplus food sources with organizations and people in need.
+- 🤖 **Top 50%, Amazon ML Summer Challenge 2025** — Ranked among the **top 50% of participants** in the machine-learning challenge.
+- ⭐ **700+ DSA Problems Solved** — Solved **700+ Data Structures & Algorithms problems** across multiple competitive-programming and coding platforms.
 
 ---
 
